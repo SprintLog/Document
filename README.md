@@ -1,8 +1,8 @@
-## Abstract
+### Abstract
   ระบบที่ช่วยให้อาจารย์สามารถตรวจสอบความคืบหน้าของโปรเจคและยังสามารถดูรายละเอียดของย่อยงานของแต่ละคนได้ รวมถึงสามารถประมาณการว่าจะเสร็จเมื่อไหร่
-## Purpose
+### Purpose
 
-## Functions
+### Functions
 - Authenticate
 - เพิ่ม Task ได้
 - Estimage Time
@@ -10,19 +10,15 @@
 - ดูความคืบหน้าได้
 - Upload Task & Progress
 - Upload Images Project
-- สามารถ comment
+- สามารถ comment Project ได้
 -
-## Language
+### Language
 - Front-End
   - React & Redux
 - Back-End
-  - Express
+  - Expressjs
 
-## Role
-- Teacher
-- Student
-
-## Member
+### Member
 |  ชือ   | รหัสนักศึกษา   	|    ตำแหน่ง   |
 |---	                         |---            |---            |
 |   นาย นันทิพัฒน์ ตุลวรรธนะ        |   5730213093   |  Programmer   |
