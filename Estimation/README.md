@@ -46,3 +46,9 @@ The original paper by Lawrence H. Putnam published in 1978
 
 
 #### Use Case Points (UCP)
+
+##### Method
+- Unadjusted Use Case Weight (UUCW)
+- Unadjusted Actor Weight (UAW)
+- Technical Complexity Factor (TCF)
+- Environmental Complexity Factor (ECF) 
